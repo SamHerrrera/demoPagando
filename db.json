@@ -1,11 +1,11 @@
 {
-  "posts": [
+  name: "Clientes paginas web",
+  items: [
     {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+      name: 'Consultor',
+      total: 300,
+      unitPrice: 300,
+      quantity: 2
+    } 
+  ]
 }
