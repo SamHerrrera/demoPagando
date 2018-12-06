@@ -2,7 +2,7 @@
   name: "Clientes paginas web",
   items: [
     {
-      name: 'Consultor',
+      name: "Consultor",
       total: 300,
       unitPrice: 300,
       quantity: 2
